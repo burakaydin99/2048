@@ -3,7 +3,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #9cc2d2;
+  background: #000;
   color: #354b59;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -60,9 +60,9 @@ input {
   clear: both; }
 
 h1.title {
-  font-size: 55px;
+  font-size: 40px;
   font-weight: medium;
-  margin: 0;
+  margin: 20;
   display: block;
   float: left; }
 
@@ -210,7 +210,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #fff;
+  background: #303030;
   border-radius: 6px;
   width: 500px;
   height: 500px;
